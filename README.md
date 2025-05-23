@@ -5,7 +5,6 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
 - 📅 Born on **12 February 2002**
