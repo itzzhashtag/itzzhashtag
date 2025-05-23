@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,html,css,javascript,arduino,git,github,vscode,ruby,react" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,mysql,aws,swing,html,css,javascript,arduino,git,github,vscode,ruby,react" />
 </p>
 
 ---
@@ -27,7 +27,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
+  <
+img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzhashtag&theme=tokyonight" alt="Aniket's Streak" />
 </p>
 
