@@ -27,8 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <
-img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzhashtag&theme=tokyonight" alt="Aniket's Streak" />
 </p>
 
