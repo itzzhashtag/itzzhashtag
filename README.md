@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Chowdhury</h1>
 <h3 align="center">aka Hashtag | Final Year CSE Student | IoT & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-top: 20px; height: auto;" />
-
-
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 👨‍💻 About Me
