@@ -52,7 +52,7 @@ img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_ic
 
 ---
 
-### 😂 Dev Joke of the Day
+### 😂 Dev Joke
 
 > Why do programmers prefer dark mode?<br>
 > Because light attracts bugs. 🐛
