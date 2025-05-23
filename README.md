@@ -6,12 +6,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Engineering @ **Siliguri Institute of Technology**
+- 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
 - 📅 Born on **12 February 2002**
-- 💻 Fluent in **Java**, **Python**, and **C#**
-- 🧠 I use AI tools (like my homie ChatGPT ❤️) to build smarter solutions
-- 🔧 I do **Arduino**, **IoT**, and embedded stuff—DIY beast mode 😎
-- 🌐 Also interested in **Web Development**
+- 💻 Proficient in **Java**, **Python**, and **C#**
+- 🧠 I leverage AI tools (shoutout to ChatGPT ❤️) for building smart tech solutions
+- 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
+- 🌐 Exploring the world of **Web Development**
+- 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
 
 ---
 
@@ -45,11 +46,19 @@
 
 ### 🤯 Fun Fact
 
-> I stay up late and don’t stop until I finish what I start.  
+> I sometimes stay up late and don’t stop until I finish what I start.  
 > If I can imagine it — I *will* build it. 💪
+
+---
+
+### 😂 Dev Joke of the Day
+
+> Why do programmers prefer dark mode?<br>
+> Because light attracts bugs. 🐛
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
 </p>
+
