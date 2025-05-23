@@ -9,7 +9,7 @@
 - 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
-- 🧠 I leverage AI tools (shoutout to ChatGPT ❤️) for building smart tech solutions
+- 🧠 I leverage AI tools for building smart tech solutions
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Web Development**
 - 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
