@@ -61,11 +61,7 @@
 
 ## 👤 Author & Contact
 
-## 👤 Author & Contact
-
 <table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/69070348?v=4" width="100" style="border-radius:50%"></td>
     <td>
       <h3>Aniket Chowdhury <sub>(aka <strong>#Hashtag</strong>)</sub></h3>
       <p>
@@ -75,7 +71,6 @@
         📸 <strong>Instagram:</strong> <a href="https://instagram.com/itzz_hashtag">@itzz_hashtag</a>
       </p>
     </td>
-  </tr>
 </table>
 
 
