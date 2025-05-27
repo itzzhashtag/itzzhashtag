@@ -61,11 +61,27 @@
 
 ## 👤 Author & Contact
 
-**Name:** Aniket Chowdhury (aka Hashtag)  
-**Email:** micro.aniket@example.com  
-**GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
-**Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)  
-**LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)
+## 👤 Author & Contact
+
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/69070348?v=4" width="100" style="border-radius:50%"></td>
+    <td>
+      <h3>Aniket Chowdhury <sub>(aka <strong>#Hashtag</strong>)</sub></h3>
+      <p>
+        🛠️ DIY Electronics | 💻 Programmer | 💡 Tinkerer<br>
+        📍 India | 🌐 Exploring the world through code
+      </p>
+      <p>
+        📧 <strong>Email:</strong> <a href="mailto:micro.aniket@example.com">micro.aniket@example.com</a><br>
+        💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/itzz-hashtag/">itzz-hashtag</a><br>
+        🐙 <strong>GitHub:</strong> <a href="https://github.com/itzzhashtag">itzzhashtag</a><br>
+        📸 <strong>Instagram:</strong> <a href="https://instagram.com/itzz_hashtag">@itzz_hashtag</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
