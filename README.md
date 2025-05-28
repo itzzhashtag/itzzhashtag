@@ -11,7 +11,7 @@
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🧠 I leverage AI tools for building smart tech solutions
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
-- 🌐 Exploring the world of **Web Development**
+- 🌐 Exploring the world of **Full-Stack Development**
 - 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
 
 ---
