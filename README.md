@@ -96,7 +96,7 @@
 
 <div align="center">
   <blockquote>
-  If you can imagine it — You *can* build it. 💪
+  If you can imagine it — You can build it. 💪
   </blockquote>
 </div>
 
