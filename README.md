@@ -14,7 +14,7 @@
 - 🧠 I leverage AI tools for building smart tech solutions
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
-- 🚀 Always experimenting with new tech or pushing the limits of everything 🔥
+- 🚀 Always experimenting, pushing the limits of everything 🔥
 - 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
   
 ---
