@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLQAAAIwCAIAAAAQyKUAAADXyUlEQVR4nOzdeXwU9f0/8Pfsvdlks7k5khAg4QxyJAISRQ1SgdYKFiu0KkgLlFbQny14AV+/HLaCta1oLdgiaPsFhQpqi6ASDwwCEgEJZw5CDsidzSabvXd+f2yOmdlrstkcC6/nw0fLTuYzn89njs/Me47Ph4mISqBgG5cx8eKF811cyNQ775w69c6PPvzgzJkz7n8..." alt="HASHTAG" width="500"/>
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aniket Chowdhury</h1>
 <h3 align="center">aka Hashtag | Final Year CSE Student | IoT & AI Enthusiast</h3>
 
@@ -81,7 +88,7 @@
 ### 🤯 Fun Fact
 
 > I sometimes stay up late and don’t stop until I finish what I start.  
-> If I can imagine it — I *will* build it. 💪
+> It’s all 0’s and 1’s
 
 ---
 
