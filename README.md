@@ -76,6 +76,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://orcid.org/0009-0003-5718-3004"><img src="https://img.shields.io/badge/ORCID-4AB835?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   <a href="https://www.linkedin.com/in/itzz-hashtag/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:micro.aniket@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/itzzhashtag"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
