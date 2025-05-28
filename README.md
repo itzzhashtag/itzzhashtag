@@ -102,6 +102,17 @@
 
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <blockquote>
+    <p><em style="color: #00C7B7;">“ If you can imagine it — You *can* build it. 💪 ”</em></p>
+    <p style="color: #61dafb;"><sub>- Aniket Chowdhury (Engineer)</sub></p>
+  </blockquote>
+</div>
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
 </p>
