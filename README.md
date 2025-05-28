@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLQAAAIwCAIAAAAQyKUAAADXyUlEQVR4nOzdeXwU9f0/8Pfsvdlks7k5khAg4QxyJAISRQ1SgdYKFiu0KkgLlFbQny14AV+/HLaCta1oLdgiaPsFhQpqi6ASDwwCEgEJZw5CDsidzSabvXd+f2yOmdlrstkcC6/nw0fLTuYzn89njs/Me47Ph4mISqBgG5cx8eKF811cyNQ775w69c6PPvzgzJkz7n8..." alt="HASHTAG" width="500"/>
-</p>
-
 
 
 
@@ -23,17 +19,13 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ ⚡ Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,ruby,arduino,mysql,aws,html,css,javascript,git,github,react,vscode," />
 </p>
 
----
-
-## ⚡ Technologies
-
-### Language
+## ### Language
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
