@@ -13,9 +13,9 @@
 - 🧠 I leverage AI tools for building smart tech solutions
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
+- 🚀 Always experimenting with new tech or pushing the limits of everything 🔥
 - 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
-<br>
-
+  
 ---
 
 ## 🛠️ ⚡ Technologies
@@ -45,7 +45,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI--Tools-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
@@ -71,18 +71,15 @@
 </p>
 
 ---
-
-## 🤯 Fun Fact
-
-> I sometimes stay up late and don’t stop until I finish what I start.  
-> It’s all 0’s and 1’s
+## 🤯 **Fun Fact**  
+🎯 *I sometimes stay up late and don’t stop until I finish what I start.*  
+💻 Because **it’s all 0’s and 1’s!**  
 
 ---
 
-## 😂 Dev Joke
-
-> Why do programmers prefer dark mode?<br>
-> Because light attracts bugs. 🐛
+## 😂 **Dev Joke**  
+😆 **Why do programmers prefer dark mode?**  
+🕶️ Because **light attracts bugs!** 🐛  
 
 ---
 
