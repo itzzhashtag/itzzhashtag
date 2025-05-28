@@ -81,16 +81,6 @@
 😆 **Why do programmers prefer dark mode?**  
 🕶️ Because **light attracts bugs!** 🐛  
 
----
-
-## 👤 Author & Contact
-
-👨 **Name:** Aniket Chowdhury (aka Hashtag)  
-📧 **Email:** [micro.aniket@gmail.com](mailto:micro.aniket@gmail.com)  
-💼 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)  
-🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
-📸 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)
-
 <div align="center">
   <blockquote>
   If you can imagine it — You *can* build it. 💪
