@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
+
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
 - 📅 Born on **12 February 2002**
@@ -85,13 +86,13 @@
 ---
 ## 🤯 **Fun Fact**  
 🎯 *I sometimes stay up late and don’t stop until I finish what I start.*  
-💻 Because **it’s all 0’s and 1’s!**  
+💻 *Life is all about 0’s and 1’s!*  
 
 ---
 
 ## 😂 **Dev Joke**  
 😆 **Why do programmers prefer dark mode?**  
-🕶️ Because **light attracts bugs!** 🐛  
+🕶️ Because *light attracts bugs!* 🐛  
 
 <div align="center">
   <blockquote>
