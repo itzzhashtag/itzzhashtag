@@ -1,15 +1,10 @@
-![image](https://github.com/user-attachments/assets/075df591-a52b-4483-a8fb-da20d9db22e8)
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Aniket Chowdhury</h1>
 <h3 align="center">aka Hashtag | Final Year CSE Student | IoT & AI Enthusiast</h3>
 
+---
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
@@ -19,15 +14,12 @@
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
 - 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
+<br>
 
 ---
 
-### 🛠️ ⚡ Technologies
+## 🛠️ ⚡ Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,ruby,arduino,mysql,aws,html,css,javascript,git,github,react,vscode," />
-</p>
- 
 ### Language
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,11 +32,11 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Libraries & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Swirl](https://img.shields.io/badge/Swirl-R%20Learning-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Swirl](https://img.shields.io/badge/Swirl-R%20Learning-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -59,7 +51,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
@@ -68,7 +60,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:micro.aniket@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -80,14 +72,14 @@
 
 ---
 
-### 🤯 Fun Fact
+## 🤯 Fun Fact
 
 > I sometimes stay up late and don’t stop until I finish what I start.  
 > It’s all 0’s and 1’s
 
 ---
 
-### 😂 Dev Joke
+## 😂 Dev Joke
 
 > Why do programmers prefer dark mode?<br>
 > Because light attracts bugs. 🐛
@@ -102,18 +94,11 @@
 🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
 📸 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)
 
- 
-
-## ✍️ Random Dev Quote
-
 <div align="center">
   <blockquote>
-    <p><em style="color: #00C7B7;">“ If you can imagine it — You *can* build it. 💪 ”</em></p>
-    <p style="color: #61dafb;"><sub>- Aniket Chowdhury (Engineer)</sub></p>
+  If you can imagine it — You *can* build it. 💪
   </blockquote>
 </div>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
