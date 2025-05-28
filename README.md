@@ -24,10 +24,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,ruby,arduino,mysql,aws,html,css,javascript,git,github,react,vscode," />
 </p>
-
----
-
-## ### Language
+ 
+### Language
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
