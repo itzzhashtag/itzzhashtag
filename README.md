@@ -15,7 +15,7 @@
 - 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
 - 🚀 Always experimenting, pushing the limits of everything 🔥
-- 🌍 **Languages I speak**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
+- 🌍 **Languages**: English, Hindi, Bengali, and currently learning Japanese (N5 level)
   
 ---
 ## 🛠️ ⚡ Technologies  
