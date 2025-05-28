@@ -1,43 +1,6 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Epic Hashtag Animation</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background: radial-gradient(circle, #000000, #1a1a1a);
-            margin: 0;
-            overflow: hidden;
-        }
+![image](https://github.com/user-attachments/assets/075df591-a52b-4483-a8fb-da20d9db22e8)
 
-        .hashtag {
-            font-size: 5rem;
-            color: cyan;
-            font-weight: bold;
-            text-shadow: 0 0 15px cyan, 0 0 30px rgba(0, 255, 255, 0.8);
-            animation: glow 1.5s infinite alternate, rotate 5s infinite linear;
-            position: relative;
-        }
 
-        @keyframes glow {
-            0% { text-shadow: 0 0 10px cyan, 0 0 20px rgba(0, 255, 255, 0.5); }
-            100% { text-shadow: 0 0 20px #00ffff, 0 0 40px rgba(0, 255, 255, 1); }
-        }
-
-        @keyframes rotate {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-    </style>
-</head>
-<body>
-    <div class="hashtag">#</div>
-</body>
 
 
 
