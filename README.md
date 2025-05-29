@@ -12,7 +12,8 @@
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🧠 I leverage AI tools for building smart tech solutions
-- 🔧 Passionate about **Arduino**, **IoT**, and embedded systems — DIY mode always on 😎
+- 🔧 Passionate about **Arduino**, **IoT
+**, and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
 - 🚀 Always experimenting, pushing the limits of everything 🔥
 - 🌍 **Languages**: English, Hindi, Bengali, Japanese (N5 level)(Learning)
@@ -92,7 +93,7 @@
 🎯 *I sometimes stay up late and don’t stop until I finish what I start.*  
 💻 *Life is all about 0’s and 1’s!*  
 
----
+ 
 
 ## 😂 **Dev Joke**  
 😆 **Why do programmers prefer dark mode?**  
