@@ -99,13 +99,15 @@
 😆 **Why do programmers prefer dark mode?**  
 🕶️ Because *light attracts bugs!* 🐛  
 
+---
+
 <div align="center">
-  <blockquote>
-  If you can imagine it — You can build it. 💪
-  </blockquote>
+If you can imagine it — You can build it. 💪 
+
 </div>
 
 <p align="center">
+<bs>
   <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
 </p>
 
