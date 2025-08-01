@@ -105,7 +105,7 @@
 ---
 
 <div align="center">
-If you can imagine it — You can build it. 💪 
+If the mind can create, the hands can translate. 💪 
 
 </div>
 
