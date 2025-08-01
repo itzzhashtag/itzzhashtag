@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Chowdhury</h1>
-<h3 align="center">aka Hashtag | Final Year CSE Student | IoT & AI Enthusiast</h3>
+<h3 align="center">aka Hashtag | IoT & AI Enthusiast</h3>
 
 ---
 
