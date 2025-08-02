@@ -92,7 +92,7 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 
 ---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
@@ -111,7 +111,7 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 **Connect With Me**
 
 <p align="left">
   <a href="https://orcid.org/0009-0003-5718-3004"><img src="https://img.shields.io/badge/ORCID-4AB835?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
@@ -123,33 +123,37 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 🐍 **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itzzhashtag/itzzhashtag/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
 
+## 💬 **Ask Me About**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- IoT + Arduino + ESP32 hacks 🛠️
+- Building apps in Java + Python 🐍
+- AI Prompt Engineering 🤖
+- Making fun, weird games 👾
+- Making broken things work 😅
 
 ---
 
-###  Developer Manifesto  
+## 🧪 **Debugging Philosophy**
+```bash
+while !(success)
+{
+    try();
+    fail();
+    learn();
+    repeat();
+}
+```
+---
+
+##  Developer Manifesto  
 ```markdown
 ## 🧠 Motto
 💡 *Creativity is my syntax. Curiosity is my compiler.*  
@@ -158,7 +162,9 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 🧠 *Failure is just a commit in the repo of growth.*
 ⚙️ *I don’t just write code — I build logic that breathes.* 
 ```
-
+---
+## 🎧 Now Coding With
+[![Spotify](https://novatorem-hashtag.vercel.app/api/spotify)](https://open.spotify.com/user/yourID)
 ---
  
 <!-- ⚙️ Dynamic Tech Quotes / Jokes Section -->
@@ -173,7 +179,7 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 
 <p align="center">
 <bs>
-  <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
+  <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile+Views&color=blueviolet&style=flat-square" alt="itzzhashtag" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
