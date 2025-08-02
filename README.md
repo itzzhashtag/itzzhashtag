@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Chowdhury</h1>
-<h3 align="center">aka Hashtag — runs on ☕⚡ caffeine and 🧠💡 curiosity.
+<h3 align="center">aka Hashtag — runs on ☕⚡ caffeine and 🧠💡 curiosity!
 
 ---
 
