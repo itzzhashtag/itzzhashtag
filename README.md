@@ -164,7 +164,12 @@ while !(success)
 ```
 ---
 ## 🎧 Now Coding With
-[![Spotify](https://novatorem-hashtag.vercel.app/api/spotify)](https://open.spotify.com/user/yourID)
+ 
+
+[![Spotify](https://img.shields.io/badge/Currently_Playing-%E2%99%AB-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/TRACK_ID)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/TRACK_ID?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ---
  
 <!-- ⚙️ Dynamic Tech Quotes / Jokes Section -->
