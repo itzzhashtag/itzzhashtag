@@ -8,7 +8,7 @@
 
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science Engineering @ **Siliguri Institute of Technology**
+- 🎓 B.Tech in Computer Science Engineering
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🧠 I leverage AI tools for building smart tech solutions
