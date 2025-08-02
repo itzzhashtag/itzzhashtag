@@ -163,12 +163,12 @@ while !(success)
 ⚙️ *I don’t just write code — I build logic that breathes.* 
 ```
 ---
-## 🎧 Now Coding With
+## 🎧 Music for the Missing Pieces
  
-
-[![Spotify](https://img.shields.io/badge/Currently_Playing-%E2%99%AB-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/TRACK_ID)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/TRACK_ID?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://img.shields.io/badge/Spotify-English%20Vibes-00008B?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/playlist/4nE9nlGiS93AHcQQrUXQwa)
+ [![Spotify](https://img.shields.io/badge/Spotify-Hindi%20Vibes-FFA500?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/playlist/4B95soiSyHLxcRq0e0Wdjr)
+ [![Spotify](https://img.shields.io/badge/Spotify-Philophobia%20Vibes-00BFFF?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/playlist/2fr9UczNXnQeFQ5numIi7t)
+ [![Spotify](https://img.shields.io/badge/Spotify-UwU%20🎀-DA70D6?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/playlist/0ktSLVIqjQhE8EBNvaUxMz)
 
 ---
  
