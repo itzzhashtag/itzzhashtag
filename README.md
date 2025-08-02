@@ -11,7 +11,7 @@
 
 
 
-### 👨‍💻 About Me
+### 👨🏻‍💻 Basics
 - 🎓 B.Tech in Computer Science Engineering
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
@@ -23,7 +23,24 @@
 - 🌍 **Languages**: English, Hindi, Bengali, Japanese (N5 level)(Learning)
   
 ---
+### 👨‍💻 About Me
+
+Creative problem-solver with a strong passion for IoT, automation, and full-stack development. Known for turning ideas into working solutions through innovative thinking and technical precision. Experienced in building systems that integrate hardware and software seamlessly, from ESP32-based sensor networks to AI-powered tools. Thrives on challenges, loves optimizing workflows, and believes: If it can be imagined, it can be built.
+
+---
 ## 🛠️ ⚡ Technologies  
+
+### 🗣️ **Speaking Languages**
+
+<p align="center">
+  
+
+<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/ Hindi-Native-orange?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/ Bengali-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/ Japanese-Learning(N5)-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+</p>
 
 ### 🚀 **Programming Languages**  
 <p align="center">
@@ -80,6 +97,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzzhashtag&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzhashtag&theme=tokyonight" alt="Aniket's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzhashtag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
 </p>
 
 ---
@@ -102,6 +121,31 @@
   <a href="https://instagram.com/itzz_hashtag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.gg/KGKRYcpe4W"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itzzhashtag/itzzhashtag/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
