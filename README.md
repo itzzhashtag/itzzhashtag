@@ -5,6 +5,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Crafting+logic+with+style...;Breaking+limits+with+code...;Hashtag+never+rests+%F0%9F%92%A1" alt="Typing SVG">
+</p>
+
 
 
 ### 👨‍💻 About Me
@@ -80,6 +84,14 @@
 
 ---
 
+## 😂 **Dev Joke**  
+<!-- 😂 Developer Jokes: Clean, No Overflow -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=8000&color=FF6F91&center=true&vCenter=true&width=580&height=50&lines=Why+do+devs+prefer+dark+mode%3F+Light+attracts+bugs!;I+have+99+problems...+and+a+semicolon+caused+them.;There's+no+place+like+127.0.0.1;To+understand+recursion...+read+this+again.;Real+devs+ship+first%2C+fix+later.;Programmers+don’t+die%2C+they+just+cache+out.;Hardware+problem%3F+Not+my+code!" alt="Typing Dev Jokes" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -92,25 +104,33 @@
 </p>
 
 ---
-## 🤯 **Fun Fact**  
-🎯 *I sometimes stay up late and don’t stop until I finish what I start.*  
-💻 *Life is all about 0’s and 1’s!*  
 
- 
-
-## 😂 **Dev Joke**  
-😆 **Why do programmers prefer dark mode?**  
-🕶️ Because *light attracts bugs!* 🐛  
+###  Developer Manifesto  
+```markdown
+## 🧠 Motto
+💡 *Creativity is my syntax. Curiosity is my compiler.*  
+🎯 *Every bug is just a misunderstood feature.*  
+🔥 *If it's broken, it's a challenge — not a failure.*
+🧠 *Failure is just a commit in the repo of growth.*
+⚙️ *I don’t just write code — I build logic that breathes.* 
+```
 
 ---
+ 
+<!-- ⚙️ Dynamic Tech Quotes / Jokes Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1200&color=00FFDD&center=true&vCenter=true&width=700&lines=“Code+is+poetry+in+logic.”;“Machines+follow+logic+—+we+create+it.”;“You+aren’t+coding+until+you’re+debugging+your+own+sanity.”;“A+bug+isn’t+a+mistake...+it’s+a+feature+in+disguise.”;“Technology+isn’t+magic.+But+it’s+close.”;“In+the+binary+of+life,+I+choose+to+compile.”;“Stack+Overflow+is+my+second+brain.”" alt="Typing animation" />
+</p>
 
-<div align="center">
-If the mind can create, the hands can translate. 💪 
-
-</div>
+ <p align="center">
+  <b><i>"If the mind can create, the hands can translate. 💪 "</i></b><br>
+  <sub>— Hashtag 💡⚙️</sub>
+</p>
 
 <p align="center">
 <bs>
   <img src="https://komarev.com/ghpvc/?username=itzzhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itzzhashtag" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</p>
