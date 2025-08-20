@@ -16,7 +16,7 @@
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🧠 I leverage AI tools for building smart tech solutions
-- 🔧 Passionate about Arduino, IoT
+- 🔧 Passionate about Arduino, IoT, Automation
   , and embedded systems — DIY mode always on 😎
 - 🌐 Exploring the world of **Full-Stack Development**
 - 🚀 Always experimenting, pushing the limits of everything 🔥
