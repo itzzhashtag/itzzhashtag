@@ -15,82 +15,110 @@
 - 🎓 B.Tech in Computer Science Engineering
 - 📅 Born on **12 February 2002**
 - 💻 Proficient in **Java**, **Python**, and **C#**
-- 🧠 I leverage AI tools for building smart tech solutions
-- 🔧 Passionate about Arduino, IoT, Automation
-  , and embedded systems — DIY mode always on 😎
-- 🌐 Exploring the world of **Full-Stack Development**
-- 🚀 Always experimenting, pushing the limits of everything 🔥
-- 🌍 **Languages**: English, Hindi, Bengali, Japanese (N5 level)(Learning)
+- 🧠 I leverage AI tools to design and optimize intelligent systems
+- ✈️ Working in Aviation Robotics & Drone Systems Engineering
+- 🔧 Hands-on with ArduPilot, INAV, STM32/ARM firmware, ESC flashing, VTX systems,
+      and full drone stack integration 😎
+- 🛠️ Experienced in building, configuring, and debugging high-performance UAV systems
+- 🚀 Always experimenting, pushing limits — from embedded systems to full aerial platforms 🔥
+- 🌍 **Languages**: English, Hindi, Bengali, Japanese (N5 level, learning)
   
 ---
 ### 👨‍💻 About Me
 
-Creative problem-solver with a strong passion for IoT, automation, and full-stack development. Known for turning ideas into working solutions through innovative thinking and technical precision. Experienced in building systems that integrate hardware and software seamlessly, from ESP32-based sensor networks to AI-powered tools. Thrives on challenges, loves optimizing workflows, and believes: If it can be imagined, it can be built.
+Creative problem-solver with a strong passion for IoT, automation, and full-stack development. Known for turning ideas into working solutions through innovative thinking and technical precision.
+
+Experienced in building systems that integrate hardware and software seamlessly, from ESP32-based sensor networks to AI-powered tools. Alongside this, I work in aviation robotics, contributing to the development and configuration of high-performance drone systems — including firmware flashing, flight controller tuning (ArduPilot/INAV), ESC configuration, and full stack integration of VTX, telemetry, and control systems.
+
+Thrives on challenges, loves optimizing workflows, and believes: If it can be imagined, it can be built.
 
 ---
+
 ## 🛠️ ⚡ Technologies  
 
 ### 🗣️ **Speaking Languages**
 
 <p align="center">
-  
-
-<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/ Hindi-Native-orange?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/ Bengali-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/ Japanese-Learning(N5)-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bengali-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Japanese-Learning%20(N5)-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
-### 🚀 **Programming Languages**  
-<p align="center">
+---
 
+### 🚀 **Programming Languages**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
 </p>
 
-### 📚 **Libraries & Frameworks**  
+---
+
+### 📚 **Libraries & Frameworks**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Swirl-R%20Learning-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-4A90E2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🔧 **Tools & Platforms**  
+---
+
+### ✈️ **Drone & Embedded Systems**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArduPilot-FF6F00?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/INAV-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Betaflight-000000?style=for-the-badge&logo=flightaware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission%20Planner-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGroundControl-8E44AD?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESC%20Flashing-8E44AD?style=for-the-badge&logo=flash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VTX%20Systems-E74C3C?style=for-the-badge&logo=airplayvideo&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV%20Integration-16A085?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+---
+
+### 🔧 **Tools & Platforms**
+
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI--Tools-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Tools-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
+
 
 ## 📈 **GitHub Stats**
 
@@ -133,7 +161,10 @@ Creative problem-solver with a strong passion for IoT, automation, and full-stac
 
 ## 💬 **Ask Me About**
 
+💬 Ask Me About
 - IoT + Arduino + ESP32 hacks 🛠️
+- Drone systems, flight controllers & firmware (ArduPilot, INAV, STM32) ✈️
+- ESC flashing, VTX setup & full UAV stack integration 🔧
 - Building apps in Java + Python 🐍
 - AI Prompt Engineering 🤖
 - Making fun, weird games 👾
@@ -156,11 +187,12 @@ while !(success)
 ##  Developer Manifesto  
 ```markdown
 ## 🧠 Motto
-💡 *Creativity is my syntax. Curiosity is my compiler.*  
-🎯 *Every bug is just a misunderstood feature.*  
+💡 *Creativity is my syntax. Curiosity is my compiler.*
+🎯 *Every bug is just a misunderstood feature.*
 🔥 *If it's broken, it's a challenge — not a failure.*
 🧠 *Failure is just a commit in the repo of growth.*
-⚙️ *I don’t just write code — I build logic that breathes.* 
+⚙️ *I don’t just write code — I build logic that breathes.*
+✈️ *From circuits to skies — I engineer ideas into flight.*
 ```
 ---
 ## 🎧 Music for the Missing Pieces
