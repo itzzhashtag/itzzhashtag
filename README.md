@@ -28,7 +28,7 @@
 
 Creative problem-solver with a strong passion for IoT, automation, and full-stack development. Known for turning ideas into working solutions through innovative thinking and technical precision.
 
-Experienced in building systems that integrate hardware and software seamlessly, from ESP32-based sensor networks to AI-powered tools. Alongside this, I work in aviation robotics, contributing to the development and configuration of high-performance drone systems including firmware flashing, flight controller tuning (ArduPilot/INAV), ESC configuration, and full stack integration of VTX, telemetry, and control systems.
+Experienced in building systems that integrate hardware and software seamlessly, from Raspberry Pi or ESP32-based sensor networks to AI-powered tools. Alongside this, I work in aviation robotics, contributing to the development and configuration of high-performance drone systems including firmware flashing, flight controller tuning (ArduPilot/INAV), ESC configuration, and full stack integration of VTX, telemetry, and control systems.
 
 Thrives on challenges, loves optimizing workflows, and believes: If it can be imagined, it can be built.
 
@@ -162,7 +162,7 @@ Thrives on challenges, loves optimizing workflows, and believes: If it can be im
 ## 💬 **Ask Me About**
 
 💬 Ask Me About
-- IoT + Arduino + ESP32 hacks 🛠️
+- IoT + Arduino + Raspberry Pi + ESP32 hacks 🛠️
 - Drone systems, flight controllers & firmware (ArduPilot, INAV, STM32) ✈️
 - ESC flashing, VTX setup & full UAV stack integration 🔧
 - Building apps in Java + Python 🐍
